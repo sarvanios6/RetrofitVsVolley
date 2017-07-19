@@ -13,7 +13,7 @@ import retrofit2.http.Headers;
 interface ApiInterface {
     @Headers({
             "Accept: application/json",
-            "stockal-secret-key: CSeeVMAcZwo60ZHRlvhSeD8gwviaF1FfECbRAd3mKb1wNccCWF"
+            "stockal-secret-key: CSee0VMAcZwo60ZHRlvhSeD8gwviaF1FfECbRAd3mKb1wNccCWF"
     })
 
     @GET("/api/streams/symbols/4/trending/20")
