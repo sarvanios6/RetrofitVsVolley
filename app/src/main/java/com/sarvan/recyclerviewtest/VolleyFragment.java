@@ -92,7 +92,7 @@ public class VolleyFragment extends Fragment {
                 public Map<String, String> getHeaders() throws AuthFailureError {
                     Map<String, String> params = new HashMap<>();
                     params.put("accept", "application/json");
-                    params.put("stockal-secret-key", "CSeeVMAcZwo60ZHRlvhSeD8gwviaF1FfECbRAd3mKb1wNccCWF");
+                    params.put("stockal-secret-key", "CSee0VMAcZwo60ZHRlvhSeD8gwviaF1FfECbRAd3mKb1wNccCWF");
                     return params;
                 }
             };
